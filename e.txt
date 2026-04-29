@@ -3,8 +3,9 @@
 #include <iostream>
 
 int main() {
+    int c;
     while (true) {
-        std::cout << "ayuda" << std::endl;
+        std::cin >> c;
     }
     return 0;
 }
