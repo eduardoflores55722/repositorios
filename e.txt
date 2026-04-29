@@ -1,0 +1,10 @@
+// archivo de prueba
+
+#include <iostream>
+
+int main() {
+    while (true) {
+        std::cout << "ayuda" << std::endl;
+    }
+    return 0;
+}
